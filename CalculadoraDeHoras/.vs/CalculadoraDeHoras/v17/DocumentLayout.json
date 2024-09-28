@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Murilo Rosa\\Desktop\\Projetos em C\\CalculadoraDeHoras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E069484B-76E0-4363-ADCB-75DF52AAB2D9}|CalculadoraDeHoras\\CalculadoraDeHoras.vcxproj|C:\\Users\\Murilo Rosa\\Desktop\\Projetos em C\\CalculadoraDeHoras\\CalculadoraDeHoras\\CalculadoraDeHoras.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E069484B-76E0-4363-ADCB-75DF52AAB2D9}|CalculadoraDeHoras\\CalculadoraDeHoras.vcxproj|solutionrelative:CalculadoraDeHoras\\CalculadoraDeHoras.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraDeHoras.cpp",
+              "DocumentMoniker": "C:\\Users\\Murilo Rosa\\Desktop\\Projetos em C\\CalculadoraDeHoras\\CalculadoraDeHoras\\CalculadoraDeHoras.cpp",
+              "RelativeDocumentMoniker": "CalculadoraDeHoras\\CalculadoraDeHoras.cpp",
+              "ToolTip": "C:\\Users\\Murilo Rosa\\Desktop\\Projetos em C\\CalculadoraDeHoras\\CalculadoraDeHoras\\CalculadoraDeHoras.cpp",
+              "RelativeToolTip": "CalculadoraDeHoras\\CalculadoraDeHoras.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T03:03:28.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
